@@ -1,3 +1,3 @@
 Hello Git and GitHub
 
-test 2
+test 3 from atom
